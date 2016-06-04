@@ -161,7 +161,7 @@ int main()
 	for (int j = 0; j < wayNumber; j++) {
 	cout << a->connections[j];
 	}
-	cout << endl;
+	cout << endl;aa
 	}*/
 
 
